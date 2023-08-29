@@ -1,0 +1,31 @@
+{
+    "id": "9ed86843-ca09-44f2-a1e3-758d9c561163",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "9ed86843-ca09-44f2-a1e3-758d9c561163",
+    "children": [
+        "a9786fdc-73d9-43ca-9fc7-54788abf7a42",
+        "1d3ffc87-b74c-4d6e-835f-befc3cd6d134",
+        "d5d1fe27-33b3-4895-a892-5714f141e1de",
+        "587779ef-2a25-4d78-bfb7-72377e2ccfa2",
+        "4a487b59-b304-4cf7-9b8a-5baab2ccd22f",
+        "f323b15c-6149-4f7f-9a72-ecb7bdc05628",
+        "617dcb28-ba31-4e9a-a35d-af7c2543010b",
+        "8910bc4c-f5f5-4873-a09e-1e15853ad5d9",
+        "bbe88fca-2c6c-4048-98d1-2cb9cbf4d4bf",
+        "ad8cdd56-381b-4b0f-9685-c37355a36a9d",
+        "87293c1f-7c51-4de9-99c0-211decd79b6e",
+        "551fc5a9-b301-4406-af41-2942546177cf",
+        "d60aefb5-c1aa-485b-9c42-f2ddc3a9d5db",
+        "b0e0e045-de3d-414d-b8f2-bb96f0a0c6e0",
+        "ec95f304-16d4-4b7f-b5dd-2de5087f578c",
+        "a2bbf82c-cfd7-4f34-8ce0-a2a3b40847dd",
+        "a67998aa-6f87-45e2-be13-debd1533a863",
+        "7ca5978d-73d1-4024-9147-2fa0358594da",
+        "b0164342-d57d-4555-b222-eabc2816a3b8"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "WORLD OBJECTS",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
